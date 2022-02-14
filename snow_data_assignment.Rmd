@@ -4,7 +4,6 @@ author: "Marian Hsieh"
 date: "02/14/2022"
 output:
   html_document: default
-  pdf_document: default
 editor_options:
   chunk_output_type: console
 ---
